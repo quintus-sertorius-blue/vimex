@@ -1,7 +1,7 @@
-title: "VIMEX - Consulenza Commerciale per il Medical Equipment"
+title: "VIMEX - Diagnostic Sales, Consulting and Recruiting"
 email: "andrea.vimercati@vimexsrl.com"
 description: >- # this means to ignore newlines until "baseurl:"
- Consulenza commerciale per aziende di Medical Equipment
+ Diagnostic Sales, Consulting and Recruiting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vimexsrl.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 facebook_url: https://www.facebook.com/jekyll
