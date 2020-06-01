@@ -1,20 +1,17 @@
 ---
 layout: featured
-title: Consulenza commerciale
-image: /assets/img/services/01.jpg
+permalink: agenzia
+title: Agenzia di rappresentanza di servizi e sistemi analitici diagnostici 
+# image: /assets/img/services/01.jpg
 icon: /assets/img/icons/layer-group-solid.svg
-description: But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete.
+description: per la Diagnostica di Laboratorio ospedaliera, di Ospedali pubblici e privati sul territorio nazionale italiano in aree di volta in volta ben definite e delimitate dalle Aziende Partner/Mandanti.
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Business Analysis</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
-                dolore mage aliquami erat volpate Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
-                aliquip ex ea comcon sequat. Duis autem velue
-                eum iriure dolor in hendrerit in vulputate velitesse consequat .</p>
+            <h3>Agenzia di rappresentanza per la diagnostica</h3>
+            <p> Agenzia di rappresentanza e promozione attiva di servizi e sistemi analitici diagnostici complessi, automatici e non. Alcuni dei prodotti promossi: strumentazione analitica, kit e reagenti vari, controlli di qualità interni ed esterni, software, hardware, Middleware ed interfacciamenti informatici ai LIS di Laboratorio e tutti i servizi di assistenza tecnica e specialistica ad essi connessi.</p>
         </div>
     </div>
 </div>
@@ -26,14 +23,12 @@ description: But I must explain to you how all this mistaken idea of denouncing 
     </div>
     <div class="col-xl-6 col-lg-12">
         <div class="service-details mb-40">
-            <h3>Awesome Teamwork Attention</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet dolore mage aliquami erat volpate Ut
-            wisi enim ad minim veniam, quis nos trud exerci tation corper cipit lobortis nisl ut aliq uip ex ea comcon sequat. Duis
-            autem velue eum iriure dolor in hendrerit in vulputate velitesse conse quat Ut wisi enim ad minim veniam.</p>
+            <h3>I clienti</h3>
+            <p>Diagnostica di Laboratorio ospedaliera (Centri Trasfusionali, Laboratori Analisi, Anatomie Patologiche, Genetiche Mediche, etc.) di Ospedali (ASST, ATS, IRCCS, Cliniche, Geriatrie, Case di Cura, Case di Riposo, Ricoveri, etc.) pubblici e privati sul territorio nazionale italiano in aree di volta in volta ben definite e delimitate dalle Aziende Partner/Mandanti.</p>
         </div>
     </div>
 </div>
-<div class="service-details mb-30">
+<!-- <div class="service-details mb-30">
     <h3>Your Succes Will be Done</h3>
     <p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
         aute irure dolor in reprehenderit
@@ -44,4 +39,4 @@ description: But I must explain to you how all this mistaken idea of denouncing 
         commodo pharetra est eros bibendum elit nec luctus magna felis sollicitudin mauris.
         Integer in mauris nibh euismod gravida.
         Duis ac tellus et risus vulputate vehicula.</p>
-</div>
+</div> -->

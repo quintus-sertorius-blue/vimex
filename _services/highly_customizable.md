@@ -1,20 +1,17 @@
 ---
 layout: featured
-title: Agenzia
+permalink: consulenzaHR
+title: Ricerca e selezione di figure professionali nella Diagnostica di Laboratorio ospedaliera
 icon: /assets/img/icons/air-freshener-solid.svg
-image: /assets/img/services/03.jpg
-description: Highly customizable parturient denouncing pleasure and praising pain was born and I will give you a complete.
+# image: /assets/img/services/03.jpg
+description: Venditori per la promozione diretta e la vendita attiva, Ingegneri di campo e Specialisti Laureati 
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Dedicated support quaerat parturient denouncing</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
-                dolore mage aliquami erat volpate Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
-                aliquip ex ea comcon sequat. Duis autem velue
-                eum iriure dolor in hendrerit in vulputate velitesse consequat .</p>
+            <h3>Sales</h3>
+            <p>Venditori per la promozione diretta e la vendita attiva mediante le procedure Pubbliche delle Gare d’Appalto e non (Sales Specialist, Key Account Sales Specialist, Key Account Manager, Area Manager, Regional Sales Manager, Sales Manager, etc.);</p>
         </div>
     </div>
 </div>
@@ -26,22 +23,12 @@ description: Highly customizable parturient denouncing pleasure and praising pai
     </div>
     <div class="col-xl-6 col-lg-12">
         <div class="service-details mb-40">
-            <h3>Awesome Teamwork Attention</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet dolore mage aliquami erat volpate Ut
-            wisi enim ad minim veniam, quis nos trud exerci tation corper cipit lobortis nisl ut aliq uip ex ea comcon sequat. Duis
-            autem velue eum iriure dolor in hendrerit in vulputate velitesse conse quat Ut wisi enim ad minim veniam.</p>
+            <h3>Field Service ENgineers</h3>
+            <p>Ingegneri di campo (FSE = Field Service Engineer) per l’installazione, l’avvio in routine e la riparazione ordinaria e straordinaria dei sistemi analitici diagnostici complessi</p>
         </div>
     </div>
 </div>
 <div class="service-details mb-30">
-    <h3>Your Succes Will be Done</h3>
-    <p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-        aute irure dolor in reprehenderit
-        in voluptate velit esse cillum dolore eu fugiat nulla pariatu cepteusint occaecat
-        cupidatat non proident, sunt in culpa qui
-        officia deserunt mollit anim laborum. Curatur pretium tincidunt lacus. Nulla gravida
-        orci a odio. Nullam varius, turpis et
-        commodo pharetra est eros bibendum elit nec luctus magna felis sollicitudin mauris.
-        Integer in mauris nibh euismod gravida.
-        Duis ac tellus et risus vulputate vehicula.</p>
+    <h3>Technical Account Specialist</h3>
+    <p>Specialisti Laureati (TAS = Technical Account Specialist) per l’addestramento ordinario e straordinario al corretto uso, nonché l’avvio in routine, compresi aggiornamenti ed implementazioni successive, dei sistemi analitici diagnostici complessi, del personale sanitario addetto (Tecnici di Laboratorio, Biologi, Medici) del Sistema Sanitario Nazionale pubblico e privato.</p>
 </div>

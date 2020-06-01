@@ -1,20 +1,17 @@
 ---
 layout: featured
-title: Training per la forza vendita
+permalink: consulenza
+title: Consulenza aziendale per organizzazione e coaching reti vendita
 icon: /assets/img/icons/algolia-brands.svg
-image: /assets/img/services/02.jpg
-description: Condimentum consectetur quaerat parturient denouncing pleasure and praising pain was born and I will give you a complete.
+# image: /assets/img/services/02.jpg
+description: dalle più semplici alle più complesse e strutturate, valutandole e proporzionandole al reale business esistente o da implementare.
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Condimentum consectetur quaerat parturient denouncing</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
-                dolore mage aliquami erat volpate Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
-                aliquip ex ea comcon sequat. Duis autem velue
-                eum iriure dolor in hendrerit in vulputate velitesse consequat .</p>
+            <h3>Organizzazione di reti di vendita aziendali</h3>
+            <p>Dalle più semplici alle più complesse e strutturate, valutandole e proporzionandole al reale business esistente o da implementare, nel medio e nel lungo periodo, con particolare attenzione alla linea di prodotto/servizio da gestire ed alla sua peculiare penetrazione nel mercato e nell’area geografica di riferimento;</p>
         </div>
     </div>
 </div>
@@ -26,22 +23,14 @@ description: Condimentum consectetur quaerat parturient denouncing pleasure and 
     </div>
     <div class="col-xl-6 col-lg-12">
         <div class="service-details mb-40">
-            <h3>Awesome Teamwork Attention</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet dolore mage aliquami erat volpate Ut
-            wisi enim ad minim veniam, quis nos trud exerci tation corper cipit lobortis nisl ut aliq uip ex ea comcon sequat. Duis
-            autem velue eum iriure dolor in hendrerit in vulputate velitesse conse quat Ut wisi enim ad minim veniam.</p>
+            <h3>Riorganizzazione di reti di vendita aziendali</h3>
+            <p>operando una valutazione attenta e approfondita della relativa efficacia, efficienza, omogeneità ed equilibrio, (tra: dipendenti diretti, agenzie, rivendite, distributori, magazzini, etc.), rispetto al reale business esistente, nel medio e nel lungo periodo, con particolare attenzione alla linea di prodotto/servizio da gestire ed alla sua peculiare penetrazione nel mercato e nell’area geografica di riferimento.</p>
         </div>
     </div>
 </div>
 <div class="service-details mb-30">
-    <h3>Your Succes Will be Done</h3>
-    <p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-        aute irure dolor in reprehenderit
-        in voluptate velit esse cillum dolore eu fugiat nulla pariatu cepteusint occaecat
-        cupidatat non proident, sunt in culpa qui
-        officia deserunt mollit anim laborum. Curatur pretium tincidunt lacus. Nulla gravida
-        orci a odio. Nullam varius, turpis et
-        commodo pharetra est eros bibendum elit nec luctus magna felis sollicitudin mauris.
-        Integer in mauris nibh euismod gravida.
-        Duis ac tellus et risus vulputate vehicula.</p>
+    <h3>Sales Enablement</h3>
+    <p>Attività di coaching e formazione delle relative reti di vendita aziendali.
+
+</p>
 </div>
