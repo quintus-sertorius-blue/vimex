@@ -1,24 +1,24 @@
 ---
 layout: post
-title: "Seo Friendly Post Title venenatis a condimentum vitae"
+title: "Perchè i nostri clienti scelgono VIMEX"
+permalink: whyVIMEX
 date: 2019-02-01 20:37:13 +0600
-tags: technology education
-categories: [health]
-author: "ecuelass_chapman"
+tags: 
+categories: 
+author: "Edoardo Vimercati"
 post_image: "/assets/img/blog/01.jpg"
 ---
 
-<p>11 time-saving pro tips for web designers working in Webflow11 <a href="#">time-saving pro</a> tips for web designers working in Webflow Consectetuer magna vivamus varius. Faucibus vestibulum faucibus elementum vulputate suscipit. Sit convallis litora nunc, vestibulum nibh tincidunt, in qui vel dui elit feugiat nulla, vehicula eos nec dolor conubia, aliquam proinEtiam id euismod. Purus ut dis feugiat, ac massa error leo sed fermentum, non sem velit eget arcu, lectus luctus congue leo dapibus tincidunt. Nunc vitae quis eu. Sit id ullamcorper semper ridiculus, accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium, id facere atque eum! sit nonummy tellus velit vivamus, eu sagittis gravida ut ante. Ut voluptas vestibulum leo pellentesque nulla, taciti congue, vitae nunc metus, imperdiet orci neque sed vestibulum, vestibulum magna ullamcorper posuere massa interdum </p>
-<h4>Risus sociis urna elementum ultricies justo quisque </h4> <p> mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet ultricies vitae dui tempor </p>
+<h3>Conoscenza profonda del mercato italiano della Diagnostica di Laboratorio</h3> <p> delle dinamiche che lo guidano e lo governano (Gare Regionali tramite Centrali Regionali d’Acquisto) in un contesto normativo/giuridico italiano, regionale ed europeo in continua e costante e così rapida evoluzione; </p>
 <blockquote class="blockquote single-quote">
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo non labore totam tempora sed neque repellat numquam eaque inventore! Iusto saepe ipsum, ex, commodi asperiores iure dolores amet dolorem eos voluptatum, aliquid incidunt non perferendis earum dignissimos quod iste accusantium deleniti.Risus sociis urna elementum ultricies justo quisque, mattis in eros facilisis mauris vestibulum sed, luctus proin nibh nonummy integer, nullam sit eget cum duis. Et sodales blandit, libero pede suscipit, tincidunt amet </p>
+  <p>Conoscenza profonda e dettagliata, maturata negli anni, delle dinamiche di acquisto e di approvvigionamento in ambito ospedaliero sia pubblico (Sistema Sanitario Nazionale) tramite il processo di Gara Pubblica d’Appalto che privato tramite una forte progettualità integrata ad un’analisi fine costo/beneficio;</p>
 </blockquote>
-<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
-<p>eleifend hac porta faucibus aliquam eros, massa facilisis, sed pede maecenas porttitor id magnis. Ac sed aliquam in felis amet, adipiscing pede a amet faucibus sit, quis in et ullamcorper vel commodo. Volutpat ut pede sem ipsum non, sapien adipiscing, suspendisse neque, quis dolor donec dolor. Sit voluptatibus, scelerisque in semper lacus nostra, ac integer dolor mauris tempus eget</p>
+<h3>Profonda conoscenza e collaborazione pluriennale con i principali stakeholder del settore</h3> <p>Operatori sanitari a tutti i livelli (Tecnici di laboratorio, Biologi, Medici, Direttori/Primari).</p> 
+<p>Operatori sanitari a tutti i livelli (Tecnici di laboratorio, Biologi, Medici, Direttori/Primari).</p> 
+<p>Operatori amministrativi a tutti i livelli (collaboratori amministrativi, Provveditori, Direttori Ufficio Acquisti, AD, GM).</p> 
+<p>I maggiori KOL’s a livello Regionale e Nazionale (CRS, CNS, ISS).</p> 
 
-<p>Accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium
-Lectus proin nibh nisl condimentum id venenatis a condimentum vitae. Nullam non nisi est sit amet facilisis magna etiam tempor.
-venenatis a condimentum vitae. Nullam non nisi est sit amet facilisis magna etiam tempor.Lectus proin nibh nisl condimentum id venenatis a condimentum vitae. Nullam non nisi est sit amet facilisis magna etiam tempor.
-venenatis a condimentum vitae. Nullam non nisi est sit amet facilisis magna etiam tempor.
-
- Nullam non nisi est sit amet facilisis magna etiam tempor Nullam non nisi est sit amet facilisis magna etiam tempor Nullam non nisi est sit amet facilisis magna etiam tempor Nullam non nisi est sit amet facilisis magna etiam tempor </p>
+<h3>Competenze</h3> <p>Competenze strategiche, operative e manageriali di qualità assoluta altamente strutturate durante il periodo all’interno delle Aziende (Strategic Selling by Miller-Heiman Group, Sales Force, PNL, etc.).</p>
+<blockquote class="blockquote single-quote">
+  <p>Estrema professionalità, serietà ed affidabilità basata su un’integrità morale</p>
+</blockquote>

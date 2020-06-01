@@ -121,13 +121,13 @@ h5 {
 h6 {
 	font-size: 16px;
 }
-ul {
+/* ul {
 	margin: 0px;
 	padding: 0px;
 }
 li {
 	list-style: none
-}
+} */
 p {
 	font-size: 14px;
 	font-weight: normal;
