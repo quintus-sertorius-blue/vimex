@@ -2,7 +2,7 @@
 layout: featured
 permalink: consulenzaHR
 title: Ricerca e selezione di figure professionali nella Diagnostica di Laboratorio ospedaliera
-icon: /assets/img/icons/air-freshener-solid.svg
+icon: /assets/img/icons/address-card-solid.svg
 # image: /assets/img/services/03.jpg
 description: Venditori per la promozione diretta e la vendita attiva, Ingegneri di campo e Specialisti Laureati 
 ---
