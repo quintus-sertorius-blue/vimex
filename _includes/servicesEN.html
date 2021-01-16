@@ -4,26 +4,55 @@
         <div class="row">
             <div class="col-xl-12 text-center mb-40">
                 <div class="section-title service-title">
-                    <h2>Our services</h2>
+                    <h2>Our Services</h2>
                     <!-- <p>Qui un elenco dei servizi offerti</p> -->
                 </div>
             </div>
         </div>
         <div class="row">
-            {% for service in site.services %}
+            
+            
             <div class="col-lg-4 col-md-6 text-center mb-30">
                 <div class="features-wrap">
-                    {% if service.icon %}
+                    
                     <div class="features-icon">
-                        <img src="{{service.icon}}" alt="{{service.title}}">
+                        <img src="/assets/img/icons/layer-group-solid.svg" alt="Commercial Agency for diagnostic and analytical services">
                     </div>
-                    {% endif %}
-                    <h4>{{service.title}}</h4>
-                    <p>{{service.description}}</p>
-                    <a href="{{service.url}}">Read More</a>
+                    
+                    <h4>Commercial Agency for diagnostic and analytical services</h4>
+                    <p>for Laboratory Diagnostic in Public and Private hospitals on areas defined by the client.</p>
+                    <a href="/agency">Read More</a>
                 </div>
             </div>
-            {% endfor %}
+            
+            
+            <div class="col-lg-4 col-md-6 text-center mb-30">
+                <div class="features-wrap">
+                    
+                    <div class="features-icon">
+                        <img src="/assets/img/icons/algolia-brands.svg" alt="Consultancy and coaching for your salesforce">
+                    </div>
+                    
+                    <h4>Consultancy and coaching for your salesforce</h4>
+                    <p>from the simplest to the most complex sales organization, with different business models.</p>
+                    <a href="/consultancy">Read More</a>
+                </div>
+            </div>
+            
+         
+            <div class="col-lg-4 col-md-6 text-center mb-30">
+                <div class="features-wrap">
+                    
+                    <div class="features-icon">
+                        <img src="/assets/img/icons/address-card-solid.svg" alt="Headhunting for sales and technical profiles in the Laboratory Diagnostic industry">
+                    </div>
+                    
+                    <h4>Headhunting for sales and technical profiles in the Laboratory Diagnostic industry</h4>
+                    <p>We offer headhunting services in the Laboratory Industry for every kind of profiles.</p>
+                    <a href="/HR">Read More</a>
+                </div>
+            </div>
+            
         </div>
     </div>
 </section>
